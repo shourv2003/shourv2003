@@ -1,4 +1,4 @@
-![Shourv Tarafder](https://scontent.fdac181-1.fna.fbcdn.net/v/t39.30808-6/474678302_1343442380166819_8972270450942657596_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=86c6b0&_nc_eui2=AeFwnRVgvooYDKupcZSGJcMTmQmwlcgkOS6ZCbCVyCQ5LqsgSHCeGXyIasqrHxooirtjpJ7CLz-BfJ6Hi2D8RYmg&_nc_ohc=0MoTX10YDT8Q7kNvwHjS9uj&_nc_oc=Adme6ao_0eZXBl8ulcfp3sKMJfKtye2th3hlkgzQThkePxZXVnAyaxCQjtV6OGLk6z0&_nc_zt=23&_nc_ht=scontent.fdac181-1.fna&_nc_gid=5Irkp7pIad9dnm8TvW1B2g&oh=00_AfQ2Nr-j0bX4FZJ3GUsEAPtWaCGpqdzfg-d9r95AU0DICA&oe=68775085)
+
 ### Hi, I’m **Shourv Tarafder**  
 #### Undergrad Student | EEE @ CUET | Robotics Enthusiast | OpenCV & Machine Learning Learner  
 
